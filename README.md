@@ -9,5 +9,7 @@ Además del análisis de macros, este complemento puede ser configurado para blo
 También puede ser usado como plantilla para el desarrollo de otros proyectos.
 
 Saludos.
+Oscar de la Cuesta
 www.palentino.es
+
 https://www.palentino.es/blog/desarrollo-de-complementos-para-outlook-con-vsto-personalizacion-instalacion-y-seguridad/
